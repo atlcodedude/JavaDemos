@@ -10,6 +10,9 @@
 
 package com.example.project;
 
+/**
+ * Demo calculator.
+ */
 public class Calculator {
 
 	// Add two numbers
